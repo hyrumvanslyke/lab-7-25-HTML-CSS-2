@@ -1,0 +1,56 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  article {
+    padding: 50px;
+  }
+  
+  header {
+    padding: 25px;
+    box-sizing: border-box;
+    background-color: lightgray;
+  }
+  
+  .stamp {
+    width: 75px;
+    height: 75px;
+    background-color: lightskyblue;
+  }
+  
+  .stripe {
+    height: 25vh;
+  }
+  
+  .stripe1 {
+    background-color: lightskyblue;
+  }
+  
+  .stripe2 {
+    background-color: aqua;
+  }
+  
+  .stripe3 {
+    background-color: palegoldenrod;
+  }
+  
+  .stripe4 {
+    background-color: yellow;
+  }
+  
+  .question {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+  }
+  
+  .question button {
+    height: 75px;
+    width: 75px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 50px;
+  }
